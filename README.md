@@ -7,11 +7,11 @@
 * [Contents](#content)
 
 ## Developers
-Project Manager: Hannah Kuo
+Project Manager: [Hannah Kuo](https://github.com/hannah-kuo)
 <br>
-Designer: HyunBae Choi
+Designer: [HyunBae Choi](https://github.com/ogharambae)
 <br>
-Programmer: Kelly Olsson
+Programmer: [Kelly Olsson](https://github.com/kelly-olsson)
 
 ## General Info
 
