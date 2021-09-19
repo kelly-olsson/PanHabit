@@ -1,4 +1,4 @@
-## My Web Application (PanHabit)
+## PanHabit
 
 * [Developers](#developers)
 * [General info](#general-info)
